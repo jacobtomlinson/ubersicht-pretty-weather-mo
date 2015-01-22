@@ -1,0 +1,5 @@
+{
+  "name": "Pretty Weather MO",
+  "description": "A fork of pretty weather by Felix Hageloh to use Met Office data. You'll need a Met Office DataPoint API key.",
+  "author": "Jacob Tomlinson"
+}
